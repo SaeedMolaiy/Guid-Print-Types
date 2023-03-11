@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GuidPrintTypes/1.0.0": {
+        "runtime": {
+          "GuidPrintTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuidPrintTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
